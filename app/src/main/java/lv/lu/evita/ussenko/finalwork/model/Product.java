@@ -1,4 +1,4 @@
-package teacher.finalwork.model;
+package lv.lu.evita.ussenko.finalwork.model;
 
 import java.math.BigDecimal;
 import java.util.Objects;

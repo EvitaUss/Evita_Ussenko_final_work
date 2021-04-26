@@ -1,4 +1,4 @@
-package teacher.finalwork.repository;
+package lv.lu.evita.ussenko.finalwork.repository;
 
 import java.util.List;
 
